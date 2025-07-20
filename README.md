@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning audio programming, full stack dev, and ML<br>🎯 My goal is to build tools to inspire creativity in everyone<br>🎲 Fun fact: my band Assistance has music on all platforms ;)</p>
+<p align="left">✨ I've been coding since 2021, and am currently migrating my projects to GitHub<br>📚 I'm currently learning audio programming, full stack dev, and ML<br>🎯 My goal is to build tools to inspire creativity in everyone<br>🎲 Fun fact: my band Assistance has music on all platforms ;)</p>
 
 ###
 
